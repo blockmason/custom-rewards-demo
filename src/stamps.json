@@ -1,0 +1,26 @@
+[
+  {
+    "id": "extratime",
+    "name": "Extra Time for Assignment",
+    "picture": "https://image.shutterstock.com/image-photo/assignment-text-written-on-notebook-260nw-511858639.jpg",
+    "price": 50
+  },
+  {
+    "id": "freelunch",
+    "name": "Free Lunch",
+    "picture": "http://www.freelunchblog.net/wp-content/uploads/2017/12/FREELunch_TicketLogo_Select_Outlined-CMYK.png",
+    "price": 75
+  },
+  {
+    "id": "bowling",
+    "name": "Bowling Night",
+    "picture": "https://image.shutterstock.com/image-photo/shoes-bowling-pin-ball-game-260nw-420254671.jpg",
+    "price": 75
+  },
+  {
+    "id": "lunchprincipal",
+    "name": "Lunch with the Principal",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_vogAIop3BNXprfeH28g3y_2X6kv-4ix27mnYlIx4VdiagGED",
+    "price": 200
+  }
+]
